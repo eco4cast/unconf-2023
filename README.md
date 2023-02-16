@@ -1,4 +1,4 @@
-# unconf-2023
+# Ecological Forecasting Initiative 2023 Unconference
 
 Brainstorming repo to propose and discuss unconference project ideas!
 
